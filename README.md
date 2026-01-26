@@ -147,7 +147,7 @@ Each project is deployed using **GitHub Pages** and can be accessed via live dem
 - **Real-Time Character Counter**  
   Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/real-time-character-counter/
 
-- **Maths Calculator**
+- **Maths Calculator**  
   Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/05-calculator.html
 
 - **Random Color Generator**  
