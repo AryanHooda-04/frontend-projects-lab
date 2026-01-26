@@ -136,7 +136,7 @@ Each project is deployed using **GitHub Pages** and can be accessed via live dem
   Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/new-year-countdown/
 
 - **Mini Calendar**  
-  Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/mini-calendar/
+  Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/mini-calender/
 
 ---
 
