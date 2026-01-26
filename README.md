@@ -86,9 +86,84 @@ A JavaScript‑driven e‑commerce style project simulating product listings and
 - ✅ Modular and readable JS code
 - ✅ Real‑world e‑commerce UI concepts  
 
-🔗 Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/javascript-amazon-project/  
+🔗 Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/javascript-amazon-project/amazon.html  
 📁 Source Code: ./javascript-amazon-project
 
+---
+
+## 🚀 Live Projects
+
+A collection of frontend projects demonstrating hands-on experience with **HTML, CSS, and JavaScript**.  
+Each project is deployed using **GitHub Pages** and can be accessed via live demos.
+
+---
+
+### 🧮 Utility & Calculator Projects
+- **Age Calculator**  
+  Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/age-calculator/
+
+- **Loan Calculator**  
+  Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/loan-calculator/
+
+- **Digital Clock**  
+  Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/digital-clock/
+
+---
+
+### 🎨 UI Components & Animations
+- **Animated Search Bar**  
+  Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/animated-search-bar/
+
+- **Button Ripple Effect**  
+  Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/button-ripple-effect/
+
+- **Heart Trail Animation**  
+  Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/heart-trail-animation/
+
+- **Rotating Image Gallery**  
+  Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/rotating-image-gallery/
+
+- **Testimonial Slider**  
+  Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/testimonial-slider/
+
+---
+
+### ⏱️ Time & Productivity Tools
+- **Pomodoro Timer**  
+  Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/pomodoro-timer/
+
+- **New Year Countdown**  
+  Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/new-year-countdown/
+
+- **Mini Calendar**  
+  Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/mini-calendar/
+
+---
+
+### 🧠 Logic-Based & Interactive Projects
+- **Rock Paper Scissors Game**  
+  Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/rock-paper-scissors/
+
+- **Real-Time Character Counter**  
+  Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/real-time-character-counter/
+
+- **Random Color Generator**  
+  Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/random-color-generator/
+
+- **Random Photos Generator**  
+  Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/random-photos/
+
+---
+
+### 🧩 Practice & Mini Projects
+- **Double Landing Page**
+- **Profile Statistics UI**
+- **Dark Mode Toggle**
+- **Auto Text Effect Animation**
+
+> 📌 Each project focuses on improving UI design, JavaScript logic, responsiveness, and code readability.
+
+---
 
 ## 🤝 Contributions
 
