@@ -59,6 +59,37 @@ This structure keeps projects clean, readable, and easy to scale.
 
 ---
 
+## ⭐ Featured Projects
+
+These projects represent my **most complete and impactful frontend implementations**, showcasing real‑world UI design, JavaScript logic, and deployment using GitHub Pages.
+
+---
+
+### ▶️ YouTube Clone
+A frontend clone of the YouTube interface focusing on layout structure, responsive design, and UI components commonly found in modern video platforms.
+
+- ✅ Responsive homepage layout
+- ✅ Navigation sidebar & header
+- ✅ Video cards with metadata
+- ✅ Clean UI inspired by real-world applications  
+
+🔗 Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/  
+📁 Source Code: ./ (root `index.html`)
+
+---
+
+### 🛒 Amazon‑Style JavaScript Project
+A JavaScript‑driven e‑commerce style project simulating product listings and interactivity.
+
+- ✅ Dynamic product rendering
+- ✅ JavaScript‑based logic handling
+- ✅ Modular and readable JS code
+- ✅ Real‑world e‑commerce UI concepts  
+
+🔗 Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/javascript-amazon-project/  
+📁 Source Code: ./javascript-amazon-project
+
+
 ## 🤝 Contributions
 
 This repository is mainly for personal learning and experimentation, but suggestions and feedback are always welcome.
