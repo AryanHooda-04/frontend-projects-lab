@@ -142,7 +142,7 @@ Each project is deployed using **GitHub Pages** and can be accessed via live dem
 
 ### 🧠 Logic-Based & Interactive Projects
 - **Rock Paper Scissors Game**  
-  Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/rock-paper-scissors/
+  Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/10-rock-paper-scissors.html
 
 - **Real-Time Character Counter**  
   Live Demo: https://aryanhooda-04.github.io/frontend-projects-lab/real-time-character-counter/
