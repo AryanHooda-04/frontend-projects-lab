@@ -1,5 +1,3 @@
-
-
 # Frontend Projects Lab 🚀
 
 A curated collection of frontend development projects built to strengthen core web fundamentals and explore modern UI concepts.  
@@ -24,6 +22,24 @@ Each project is designed to:
 - **HTML5** – semantic and accessible markup  
 - **CSS3** – responsive layouts, Flexbox, Grid  
 - **JavaScript (ES6+)** – interactivity and logic  
+
+---
+
+## 🧩 Skills Demonstrated
+- UI/UX design principles
+- Responsive layouts
+- JavaScript logic building
+- DOM manipulation
+- Event-driven programming
+- Component-based thinking
+- Code structuring
+
+---
+
+## 🚀 Deployment
+- GitHub Pages for live project hosting
+- Version control with Git
+- Repository management via GitHub
 
 ---
 
